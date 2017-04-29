@@ -1,1 +1,1 @@
-# design-patterns-java
+# Examples of software design patterns implemented in Java
