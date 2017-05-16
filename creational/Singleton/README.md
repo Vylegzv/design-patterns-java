@@ -17,5 +17,5 @@ This example explores several ways to implement a Singleton pattern, considering
 ## Credits
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-* [Effective Java] (https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683)
-* [JournalDev] (http://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
+* [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683)
+* [JournalDev](http://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
