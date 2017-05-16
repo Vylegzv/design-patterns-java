@@ -1,4 +1,4 @@
-## The Factory Method pattern
+## The Abstract Factory pattern
 The Abstract Factory is a creational design pattern that defines an interface or abstract class for creating families of related objects without specifying their concrete subclasses. It is a "factory of factories" that encapsulates individual factories that have a common theme.
 
 ### Advantages:
