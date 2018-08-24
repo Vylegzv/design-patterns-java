@@ -1,4 +1,4 @@
-## The Builder pattern
+## The Factory Kit pattern
 Factory Kit is a creational design pattern that uses separate builder and factory interfaces to separate the mutable part from the immutable part.
 
 ### Advantages:
